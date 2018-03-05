@@ -1,2 +1,2 @@
 # Serial_RGB_LED
-Projekt diody wykorzystujący przenośne biblioteki QT
+Projekt kontrolera diody wykorzystujący przenośne biblioteki QT
